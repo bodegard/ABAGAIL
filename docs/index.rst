@@ -14,3 +14,11 @@ The `ABAGAIL` library contains a number of interconnected Java packages that imp
    usage
    getting_started
    faq
+
+.. _example-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Examples
+   
+   example_scripts
