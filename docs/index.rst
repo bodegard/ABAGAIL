@@ -21,4 +21,4 @@ The `ABAGAIL` library contains a number of interconnected Java packages that imp
    :maxdepth: 2
    :caption: Examples
    
-   example_scripts
+   examples
