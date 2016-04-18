@@ -9,8 +9,8 @@ The `ABAGAIL` library contains a number of interconnected Java packages that imp
    :maxdepth: 2
    :caption: User Documentation
 
-   installation
-   getting_started
-   builds
    features
+   installation
+   usage
+   getting_started
    faq
