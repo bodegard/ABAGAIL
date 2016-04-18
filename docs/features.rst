@@ -46,12 +46,15 @@ Randomized hill climbing, simulated annealing, genetic algorithms, and discrete 
 * Optimize the weights of neural networks and solve travelling salesman problems
 * Graph Algorithms
 
-### Kruskals MST and DFS
+Kruskals MST and DFS
+--------------------
 * Clustering Algorithms
 
-### EM with gaussian mixtures, K-means
+EM with gaussian mixtures, K-means
+----------------------------------
 * Data Preprocessing
 
-### PCA, ICA, LDA, Randomized Projections
+PCA, ICA, LDA, Randomized Projections
+-------------------------------------
 * Convert from continuous to discrete, discrete to binary
 * Reinforcement Learning
