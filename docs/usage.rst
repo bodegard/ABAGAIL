@@ -3,7 +3,8 @@ Usage
 
 To compile and run
 
-.. code-block:: bash
+.. code-block:: 
+
     cd ABAGAIL
     ant
     java -cp ABAGAIL.jar opt.test.XORTest
