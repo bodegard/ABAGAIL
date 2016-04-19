@@ -71,7 +71,7 @@ At a high-level, the project structure is organized as follows:
 * Contains classes to generate distributions
 
 `func`
-* Contains superviced learning algorithms
+* Contains supervised learning algorithms
 * Contains clustering algorithms
 
 `opt`
