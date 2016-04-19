@@ -15,6 +15,18 @@ The `ABAGAIL` library contains a number of interconnected Java packages that imp
    getting_started
    faq
 
+.. _algorithms:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Machine Learning Algorithms
+
+   supervised
+   clustering
+   reinforcement
+   randomsearch
+   optimization
+
 .. _example-docs:
 
 .. toctree::
