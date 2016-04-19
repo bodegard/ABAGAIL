@@ -13,10 +13,14 @@ To compile and run
 
 To generate javadoc documentation:
 
+.. code-block:: 
+
     `ant javadoc`
 
 
 Note that for ant versions 1.9.3 or earlier, you need to remove
+
+.. code-block:: 
 
     `additionalparam="subpackages"`
     `from the javadoc target tag.`
