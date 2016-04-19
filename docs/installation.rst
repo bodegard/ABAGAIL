@@ -15,7 +15,7 @@ Installation
 
 * Clone ABAGAIL Repository
 
-.. code_block:: bash
+ .. code-block:: bash
 
     cd <my_local_repo_directory>
     
