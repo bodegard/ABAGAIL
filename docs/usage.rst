@@ -3,7 +3,7 @@ Usage
 
 To compile and run
 
-.. code-block:: 
+.. code-block:: bash
 
     cd ABAGAIL
     ant
@@ -13,21 +13,21 @@ To compile and run
 
 To generate javadoc documentation:
 
-.. code-block:: 
+.. code-block:: bash
 
     ant javadoc
 
 
 Note that for ant versions 1.9.3 or earlier, you need to remove
 
-.. code-block:: 
+.. code-block:: bash
 
     additionalparam="subpackages"
     from the javadoc target tag.
 
 To run the Abalone example
 
-.. code-block:: 
+.. code-block:: bash
 
     java -cp ABAGAIL.jar opt.test.AbaloneTest
 
